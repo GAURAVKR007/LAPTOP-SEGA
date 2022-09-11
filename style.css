@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+#title {
+    padding: 20px;
+    background-color: black;
+}
+
+.nav-item {
+    color: black;
+}
